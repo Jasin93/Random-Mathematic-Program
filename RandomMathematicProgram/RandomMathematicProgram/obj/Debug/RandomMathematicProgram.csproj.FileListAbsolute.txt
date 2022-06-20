@@ -1,0 +1,10 @@
+C:\Users\sebas\Desktop\programming\RandomMathematicProgram\RandomMathematicProgram\bin\Debug\RandomMathematicProgram.exe.config
+C:\Users\sebas\Desktop\programming\RandomMathematicProgram\RandomMathematicProgram\bin\Debug\RandomMathematicProgram.exe
+C:\Users\sebas\Desktop\programming\RandomMathematicProgram\RandomMathematicProgram\bin\Debug\RandomMathematicProgram.pdb
+C:\Users\sebas\Desktop\programming\RandomMathematicProgram\RandomMathematicProgram\obj\Debug\RandomMathematicProgram.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\programming\RandomMathematicProgram\RandomMathematicProgram\obj\Debug\RandomMathematicProgram.Form1.resources
+C:\Users\sebas\Desktop\programming\RandomMathematicProgram\RandomMathematicProgram\obj\Debug\RandomMathematicProgram.Properties.Resources.resources
+C:\Users\sebas\Desktop\programming\RandomMathematicProgram\RandomMathematicProgram\obj\Debug\RandomMathematicProgram.csproj.GenerateResource.cache
+C:\Users\sebas\Desktop\programming\RandomMathematicProgram\RandomMathematicProgram\obj\Debug\RandomMathematicProgram.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\programming\RandomMathematicProgram\RandomMathematicProgram\obj\Debug\RandomMathematicProgram.exe
+C:\Users\sebas\Desktop\programming\RandomMathematicProgram\RandomMathematicProgram\obj\Debug\RandomMathematicProgram.pdb
